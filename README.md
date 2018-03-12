@@ -1,8 +1,7 @@
 # MovieApp
 A Movie app using Mvp Pattern
-------------------------
-#### Fetures implemented:-
 
+#### Features implemented:-
 * Support for tablets / mobile
 * View Popular Movies
 * View details of popular movies
@@ -10,7 +9,6 @@ A Movie app using Mvp Pattern
 * Add to Fav
 
 #### Library used:-
-
 * RxJava and rxAndroid
 * Timber
 * Retrofit
@@ -20,6 +18,5 @@ A Movie app using Mvp Pattern
 * Room
 
 #### Resource used :-
-
 https://github.com/googlesamples/android-architecture
------------------------- 
+ 
