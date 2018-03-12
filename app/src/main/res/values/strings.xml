@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">Movie App</string>
+  <string name="title_item_list">Movies</string>
+  <string name="title_item_detail">Movie Detail</string>
+
+  <string name="navigation_drawer_open">Open navigation drawer</string>
+  <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>
